@@ -1,0 +1,10 @@
+Algorithm ID = CEAA
+Test ID = Test-01
+TP	FP	FN
+0	0	30
+21	8	9
+29	1	1
+29	1	1
+24	6	6
+20	0	10
+19	9	11
