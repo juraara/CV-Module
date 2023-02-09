@@ -19,7 +19,7 @@
     <Xml Include="haarcascade_frontalface_alt2.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CEAA (Min Thresh Value) (Unit Test).cpp">
+    <ClCompile Include="ceaa.minThresh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

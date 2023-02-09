@@ -19,7 +19,7 @@
     <Xml Include="haarcascade_frontalface_alt2.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GTON (PERCLOS) (Unit Test).cpp">
+    <ClCompile Include="gton.PERCLOS.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

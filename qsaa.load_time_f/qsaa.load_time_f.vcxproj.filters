@@ -19,7 +19,7 @@
     <Xml Include="haarcascade_frontalface_alt2.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="QSAA (Load Time) (Unit Test).cpp">
+    <ClCompile Include="qsaa.load_time_f.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

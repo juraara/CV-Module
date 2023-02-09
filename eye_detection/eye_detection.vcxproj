@@ -23,7 +23,7 @@
     <Xml Include="haarcascade_frontalface_alt2.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ED (Optimal Camera Angle).cpp" />
+    <ClCompile Include="eye_detection.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

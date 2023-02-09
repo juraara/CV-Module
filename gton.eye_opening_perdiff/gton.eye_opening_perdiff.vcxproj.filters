@@ -19,7 +19,7 @@
     <Xml Include="haarcascade_frontalface_alt2.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GTON (Eye Opening Percent Difference) (Unit Test).cpp">
+    <ClCompile Include="gton.eye_opening_perdiff.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
