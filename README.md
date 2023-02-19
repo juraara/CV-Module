@@ -18,7 +18,10 @@ To explain, this simple iris detection method is based on the assumption that wh
     Rect eye = _GTON.detectEyes(frame, eyeCascade, x_angle);
     Rect iris = _GTON.detectIris(frame, eye);
 ```
-## 2. Blink detection
+A sample image is shown below of how the frame is processed starting from eye detection to iris detection.
+![sample](/etc/sample.png)
+
+## 3. Blink detection
 Here, 4 light-weight blink detection algorithms will be compared; 2 of which are from unpublished papers and the other 2 are from published papers.
 
 Note that for methods `GTON`, `CEAA` and `QSAA`, all of them assumes that when the eyes are opened, it should have a greater number of black pixels compared to when the eyes are closed. The number of black pixels is greatly affected by the presence and the absence of the iris when the eyes are opened and closed, respectively.
@@ -88,5 +91,3 @@ Can be initialized using:
 ```c++
     _EBRA = EBRA();
 ```
-## License
-This is a repository for my project. The code is free to use and modify under the MIT License.
