@@ -1,14 +1,5 @@
+# Computer vision (CV) module
+This repository is intended for the computer vision module for a drowsiness detection system. The drowsiness detection system is planned to be embedded in a motorcycle helmet.
 
-<h1 align="center">
-  <b>CompVision</b>
-  <br>
-  <sub><sup><b>(Computer Vision)</b></sup></sub>
-  <br>
-</h1>
+## 1. Modules
 
-<p align="center">
-  One of the three modules in our undergrad thesis that is a drowsiness detection system for motorcycle drivers. This is mostly written in C++.
-</p>
-
-## Content
-This module repo contains 4 light-weight blink-detection algorihtms from different sources.
