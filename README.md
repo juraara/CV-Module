@@ -19,6 +19,7 @@ To explain, this simple iris detection method is based on the assumption that wh
     Rect iris = _GTON.detectIris(frame, eye);
 ```
 A sample image is shown below of how the frame is processed starting from eye detection to iris detection.
+
 ![sample](/etc/sample.png)
 
 ## 3. Blink detection
